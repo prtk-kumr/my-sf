@@ -1,4 +1,3 @@
-Below is a complete markdown blog post on Salesforce Custom Settings with minimal yet comprehensive details, including examples, usage scenarios, governor limits, caching, and permissions:
 
 ---
 
